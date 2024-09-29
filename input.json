@@ -1,0 +1,15 @@
+{
+  "name": "Alice",
+  "age": 25,
+  "isStudent": true,
+  "scores": [100, 90, 85.5],
+  "address": null
+}
+
+{
+  "name": "Alice",
+  "age": 25,
+  "isStudent": tru, 
+  "scores": [100, 90, 85.5],
+  "extra": inval1d 
+}
