@@ -5,5 +5,5 @@ se ingresa el los datos por consola y se genera un archivo output donde se muest
 Como se especifica en la descripcion de la tarea el lexer muestra donde estan los errores sin detener la ejecucion.
 
 Nombre de los integrantes:
-Matias Meza
+Matias Meza,
 Oscar Gonzalez
