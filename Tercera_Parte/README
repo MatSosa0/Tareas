@@ -1,0 +1,10 @@
+Alumnos : Matias Meza, Oscar Gonzales.
+
+Para la Tercera parte de trabajo practico se realizo la prueba directamente en la consola, al darle: 
+javac JsonToXmlTranslator.java 
+Se creo un archivo llamado JsonToXmlTranslator.class.
+Luego al llamar a la clase y pasarle el nombre del archivo input.json y el formato de salida output.xml:
+java JsonToXmlTranslator input.json output.xml
+Esto en caso de que el archivo input se encuentre en la misma carpeta que el JsonToXmlTranslator.java 
+Sino entonces se debe especificar la ruta del archivo.json:
+Ejemplo: java JsonToXmlTranslator /ruta/completa/a/input.json output.xml
