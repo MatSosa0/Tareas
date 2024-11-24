@@ -1,0 +1,17 @@
+<object>
+<name>
+<string>John</string>
+</name>
+<age>
+<number>30</number>
+</age>
+<isStudent>
+<boolean>false</boolean>
+</isStudent>
+<courses>
+<array>
+<string>Math</string>
+<string>Science</string>
+</array>
+</courses>
+</object>
